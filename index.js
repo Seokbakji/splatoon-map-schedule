@@ -68,4 +68,4 @@ const embed = new MessageEmbed()
 	}
 });
 
-client.login('Nzg1NDQ4NTI5NzY5NzkxNDk4.X83_8g.FyOSgO-za2aJKgVHd9sUo9AlfCM');
+client.login('token');
